@@ -1,0 +1,7 @@
+{
+  "name": "เรียนสนุก ป.1 - สื่อการเรียนรู้สำหรับเด็ก ป.1",
+  "description": "แอปพลิเคชันการเรียนรู้และแบบฝึกหัดแสนสนุกสำหรับเด็ก ป.1 ครบ 8 กลุ่มสาระ พร้อมระบบเสียง เอฟเฟกต์ และเกมสะสมดาว",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
